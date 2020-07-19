@@ -6,5 +6,5 @@ This python script logs into the facebook profile and likes random posts on the 
 2. Run the auto_facebook.py script. Change the arguments as your need, by default it runs headless and debug mode is off.
 
 # TODO
-* Add support for multiple browsers
-* Save cookies to avoid login everytime
+* Add support for multiple browsers.
+* Save cookies to avoid login everytime.
