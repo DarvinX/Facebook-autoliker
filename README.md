@@ -2,9 +2,7 @@
 Python script that takes the hassle of liking the posts of your Facebook friends.
 
 Have you ever wondered why people don't like you ? 
-
 Is it your face, your behaviour or is it because you don't talk to them much ?
-
 Nope, the only reason people don't like you is *you don't like their posts*. Now, fix that with this script.
 
 Note: Don't use it too much, otherwise Facebook will also stop to like you.
