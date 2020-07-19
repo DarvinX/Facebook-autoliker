@@ -15,7 +15,6 @@ class Bot:
         self.driverPath = driverPath
         self.debug = debug
         self.headless = headless
-        print(headless)
         self.url = "https://www.facebook.com"
 
         #start up
@@ -35,7 +34,6 @@ class Bot:
         options.set_preference("general.useragent.override",
                                userAgent)
         # open window only for debugging
-        print(self.headless)
         if self.headless:
             self.msg("headless mode")
             options.add_argument('-headless')
