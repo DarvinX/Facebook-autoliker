@@ -9,7 +9,7 @@ def likeOrNot(probability=0.5):
     return randint(100) <= 100*probability
 
 if __name__ == "__main__":
-    bot = Bot(headless=False, debug=True)
+    bot = Bot()
     bot.login(C.f_username, C.f_password)
     totalLikes = 0
     totalReloads = 0
